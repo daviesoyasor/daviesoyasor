@@ -4,7 +4,7 @@
   </a>
 </p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviesoyasor&theme=vue-dark&show_icons=true&langs_count=7">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviesoyasor&theme=vue-dark&show_icons=true&langs_count=9">
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviesoyasor&theme=vue-dark" alt="Davies Oyasor" /></p>
